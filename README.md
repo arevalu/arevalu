@@ -2,7 +2,7 @@
 
 Soy **Desarrolladora Frontend** con experiencia en HTML5, CSS3, Javascript y ReactJS principalmente. Actualmente continúo aprendiendo ReactJS, mientras conozco nuevas tecnologías como NodeJS con Express, GraphQL, Dart y Flutter.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalolucianadg&theme=material-palenight&hide=html,css)](https://github.com/arevalolucianadg?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalolucianadg&theme=material-palenight&hide=html,css&langs_count=4)](https://github.com/arevalolucianadg?tab=repositories)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalolucianadg&theme=material-palenight&hide=html,css&langs_count=10)](https://github.com/arevalolucianadg?tab=repositories) -->
 
