@@ -1,9 +1,13 @@
 ### Hola! 👋 Mi nombre es Luciana
 
-Soy **Desarrolladora Frontend** con experiencia en HTML5, CSS3, Javascript y ReactJS principalmente. Actualmente continúo aprendiendo ReactJS, mientras conozco nuevas tecnologías como NodeJS con Express, GraphQL, Dart y Flutter.
+Soy **Desarrolladora Frontend** con experiencia en HTML5, CSS3, Javascript y ReactJS principalmente. Actualmente desarrollo en React Native con Typescript, mientras conozco nuevas tecnologías como NodeJS con Express, GraphQL y Java.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalolucianadg&theme=material-palenight&hide=html,css&langs_count=4)](https://github.com/arevalolucianadg?tab=repositories)
 
+### 💬 Contacto
+
+<a href="https://www.linkedin.com/in/arevalolucianadg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"></a>
+  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalolucianadg&theme=material-palenight&hide=html,css&langs_count=10)](https://github.com/arevalolucianadg?tab=repositories) -->
 
 <!--
