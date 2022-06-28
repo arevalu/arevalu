@@ -27,7 +27,7 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
 
 ### 💬 Contacto
 
-<a href="https://www.linkedin.com/in/arevalolucianadg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"></a>
+[![Linkedin: arevalolucianadev](https://img.shields.io/badge/-arevalolucianadev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=50&link=https://www.linkedin.com/in/arevalolucianadev/)](https://www.linkedin.com/in/arevalolucianadev/)
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css&langs_count=10)](https://github.com/arevalu?tab=repositories) -->
 
