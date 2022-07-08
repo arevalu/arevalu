@@ -2,34 +2,59 @@
 
 Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
 
-- 📱 **MOBILE**
-  - React Native
-  - Typescript
-  - GraphQL (con Apollo Client)
-  - Styled Components
-  - Tests unitarios con Jest y react-native-testing-library
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c%2B%2B&langs_count=5)](https://github.com/arevalu?tab=repositories)
 
-- 🌐 BFF (Backend for Frontend)
-  - Node JS
-  - Typescript
-  - GraphQL (con Apollo Server)
-  - Tests unitarios con Jest y nock
+<table class="table">
+  <tbody>
+    <tr>
+      <th>
+        📱 <b>MOBILE</b>
+      </th>
+      <th>
+        🌐 <b>BFF</b> (Backend for Frontend)
+      </th>
+      <th>
+        🖥 <b>WEB</b>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>React Native</li>
+          <li>Typescript</li>
+          <li>GraphQL (con Apollo Client)</li>
+          <li>Styled Components</li>
+          <li>Tests unitarios con Jest y react-native-testing-library</li>
+        </ul>
+      </td>
+      <td>
+        <li>Node JS</li>
+        <li>Typescript</li>
+        <li>Express</li>
+        <li>GraphQL (con Apollo Server)</li>
+        <li>Tests unitarios con Jest y nock</li>
+      </td>
+      <td>
+        <li>Next JS (React)</li>
+        <li>Typescript</li>
+        <li>Javascript</li>
+        <li>Styled components</li>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- 🖥 WEB
-  - Next JS (React)
-  - Typescript
+### 🤓 Aprendiendo
+* Android con Kotlin
+* Solidity y Dapps  
 
-- 🤓 Aprendiendo
-  - Android con Kotlin
-  - Solidity y Dapps  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css&langs_count=5)](https://github.com/arevalu?tab=repositories)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arevalu&theme=material-palenight&repo=android-job-finder-ui)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 💬 Contacto
 
 [![Linkedin: arevalolucianadev](https://img.shields.io/badge/-arevalolucianadev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=50&link=https://www.linkedin.com/in/arevalolucianadev/)](https://www.linkedin.com/in/arevalolucianadev/)
   
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile&langs_count=10)](https://github.com/arevalu?tab=repositories) --!
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c%2B%2B&langs_count=10)](https://github.com/arevalu?tab=repositories) --!
 
 <!--
 **arevalolucianadg/arevalolucianadg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
