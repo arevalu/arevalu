@@ -2,7 +2,7 @@
 
 Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c%2B%2B&langs_count=5)](https://github.com/arevalu?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c%2B%2B&langs_count=6)](https://github.com/arevalu?tab=repositories)
 
 <table class="table">
   <tbody>
