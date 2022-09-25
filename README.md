@@ -2,9 +2,57 @@
 
 Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c%2B%2B&langs_count=6)](https://github.com/arevalu?tab=repositories)
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="0">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c%2B%2B&langs_count=6)](https://github.com/arevalu?tab=repositories" />
+      </td>
+      <td>
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=typescript">
+          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        </>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=java">
+          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=dart">
+          <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=javascript">
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=kotlin">
+          <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=swift">
+          <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<table class="table">
+<table>
   <tbody>
     <tr>
       <th>
@@ -45,16 +93,14 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
 </table>
 
 ### 🤓 Aprendiendo
-* Android con Kotlin
-* Solidity y Dapps  
+* Desarrollo Android con Kotlin
+* Desarrollo iOS 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arevalu&theme=material-palenight&repo=android-job-finder-ui)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 💬 Contacto
 
 [![Linkedin: arevalolucianadev](https://img.shields.io/badge/-arevalolucianadev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=50&link=https://www.linkedin.com/in/arevalolucianadev/)](https://www.linkedin.com/in/arevalolucianadev/)
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c%2B%2B&langs_count=10)](https://github.com/arevalu?tab=repositories) --!
 
 <!--
 **arevalolucianadg/arevalolucianadg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
