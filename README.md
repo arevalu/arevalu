@@ -6,7 +6,7 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
   <tbody>
     <tr>
       <td rowspan="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c%2B%2B&langs_count=6)](https://github.com/arevalu?tab=repositories" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B&langs_count=8)](https://github.com/arevalu?tab=repositories" />
       </td>
       <td>
         <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=typescript">
@@ -23,15 +23,15 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=dart">
-          <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=javascript">
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=javascript">
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=dart">
+          <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -46,6 +46,13 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
       <td>
         <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=swift">
           <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=python">
+          <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
         </a>
       </td>
     </tr>
