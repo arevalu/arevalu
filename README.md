@@ -6,7 +6,7 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
   <tbody>
     <tr>
       <td rowspan="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B&langs_count=8)](https://github.com/arevalu?tab=repositories" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B&langs_count=8&size_weight=0.5&count_weight=0.5" />
       </td>
       <td>
         <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=typescript">
@@ -16,15 +16,15 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=java">
-          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=javascript">
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=javascript">
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=kotlin">
+          <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -37,8 +37,8 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=kotlin">
-          <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=java">
+          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -100,8 +100,8 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
 </table>
 
 ### 🤓 Aprendiendo
-* Desarrollo Android con Kotlin
-* Desarrollo iOS 
+* Go
+* Microfrontends
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arevalu&theme=material-palenight&repo=android-job-finder-ui)](https://github.com/anuraghazra/github-readme-stats) -->
 
